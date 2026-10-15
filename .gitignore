@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local tutorial outputs
+tutorials/pbmc/results/
+
+# OS metadata
+.DS_Store
