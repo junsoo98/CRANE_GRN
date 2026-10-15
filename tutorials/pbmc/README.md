@@ -118,19 +118,4 @@ python tutorials/pbmc/05_support.py \
 
 
 
-## Expected PBMC checkpoints
-
-- 10,908 cells, 26,349 RNA genes, 86,330 ATAC regions, and 50 topics.
-- 113 direct eRegulons.
-- Frozen factor-region matrices: 38,659 x 23 (HVR) and 11,921 x 23 (triplet).
-- 13 grouped iRF inputs.
-- 17 x 890 factor-by-module membership.
-- 30,962 x 890 HVR and 11,921 x 890 triplet responsibility.
-- 10,908 x 890 prior and log-likelihood; 10,908 x 530 posterior.
-- 13 support aggregates, each with 530 modules and 113 eRegulons.
-
-Numerical checkpoint reports compare new results with frozen references without
-modifying either object. Small floating-point differences are reported rather
-than silently replaced.
-
 
