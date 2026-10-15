@@ -27,8 +27,7 @@ The iRF runner imports a cloned checkout of
 through `--irf-module-path`; it is not treated as a standard pip package. The
 historical environment used Python 3.6.15 with Cython 0.29.24, NumPy 1.17.5,
 pandas 1.1.5, SciPy 1.5.3, scikit-learn 0.22.2.post1, PyArrow 6.0.1, and
-packaging 21.3. The exact historical repository commit remains unresolved and
-must not be guessed.
+packaging 21.3. 
 
 ## Data and output layout
 
