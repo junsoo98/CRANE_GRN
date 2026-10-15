@@ -119,12 +119,3 @@ post-SCENIC+/cisTopic objects and includes the reference artifacts needed to
 validate the canonical workflow. File roles, expected names, dimensions, and
 checkpoints are listed in the [PBMC tutorial README](tutorials/pbmc/README.md).
 
-Raw and large upstream data are not duplicated in this repository. Consult the
-dataset documentation for provenance, accession information, and whether an
-analysis is public-data reproducible or reference-only. An archive DOI can be
-added after the public data release is finalized.
-
-## License
-
-CRANE-GRN is distributed under the
-[GNU General Public License, version 3](LICENSE).
